@@ -1,0 +1,8 @@
+{
+  "name": "Remix Qawalib Matrix - Bahasa Arab Tingkatan 1",
+  "description": "Permainan susunan nahu dan 24 qawalib Bahasa Arab Tingkatan 1 lengkap dengan 5 set soalan (Mudah A/B, Mencabar A/B, Set E tanpa tona warna) serta sintesis audio interaktif suara kanak-kanak Arab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
